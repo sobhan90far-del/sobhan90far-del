@@ -48,3 +48,23 @@
 </p>
 
 
+---
+
+##  My Projects
+
+###  Super Market Management System
+A Python-based supermarket management system using OOP.
+
+###  Library Management System
+A simple library management system built with Python.
+
+###  Wordle Game
+A word guessing game implemented in Python.
+
+---
+
+<p align="center">
+  <i>More projects coming soon...</i>
+</p>
+
+
