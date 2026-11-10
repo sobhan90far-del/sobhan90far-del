@@ -11,7 +11,7 @@
 -  Building projects to improve my programming skills
 -  Working towards becoming a professional developer
 
-### 🛠️ Technologies & Tools
+###  Technologies & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode" />
